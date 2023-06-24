@@ -1,0 +1,11 @@
+[
+{"id":1,"name":"加农1","money":200,"atk":5,"atkRange":30,"offsetTime":1,"nextLev":2,"imgRes":"TowerImg/1_1","res":"Tower/1_1","atkType":1,"eff":"eff/Fire1"},
+{"id":2,"name":"加农2","money":300,"atk":8,"atkRange":30,"offsetTime":1,"nextLev":3,"imgRes":"TowerImg/1_2","res":"Tower/1_2","atkType":1,"eff":"eff/Fire1"},
+{"id":3,"name":"加农3","money":400,"atk":15,"atkRange":30,"offsetTime":1,"nextLev":0,"imgRes":"TowerImg/1_3","res":"Tower/1_3","atkType":1,"eff":"eff/Fire1"},
+{"id":4,"name":"机枪1","money":200,"atk":3,"atkRange":40,"offsetTime":0.2,"nextLev":5,"imgRes":"TowerImg/2_1","res":"Tower/2_1","atkType":1,"eff":"eff/Fire1"},
+{"id":5,"name":"机枪2","money":300,"atk":6,"atkRange":40,"offsetTime":0.2,"nextLev":6,"imgRes":"TowerImg/2_2","res":"Tower/2_2","atkType":1,"eff":"eff/Fire1"},
+{"id":6,"name":"机枪3","money":400,"atk":9,"atkRange":40,"offsetTime":0.2,"nextLev":0,"imgRes":"TowerImg/2_3","res":"Tower/2_3","atkType":1,"eff":"eff/Fire1"},
+{"id":7,"name":"魔法1","money":200,"atk":4,"atkRange":40,"offsetTime":0.4,"nextLev":8,"imgRes":"TowerImg/3_1","res":"Tower/3_1","atkType":2,"eff":"eff/Fire2"},
+{"id":8,"name":"魔法2","money":300,"atk":8,"atkRange":40,"offsetTime":0.4,"nextLev":9,"imgRes":"TowerImg/3_2","res":"Tower/3_2","atkType":2,"eff":"eff/Fire2"},
+{"id":9,"name":"魔法3","money":400,"atk":12,"atkRange":40,"offsetTime":0.4,"nextLev":0,"imgRes":"TowerImg/3_3","res":"Tower/3_3","atkType":2,"eff":"eff/Fire2"}
+]
